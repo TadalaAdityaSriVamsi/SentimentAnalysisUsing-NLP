@@ -1,1 +1,1 @@
-# TadalaAdityaSriVamsi-SentimentAnalysisUsing-NLP
+SentimentAnalysisUsing-NLP
